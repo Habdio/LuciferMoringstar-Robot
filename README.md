@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img src="https://telegra.ph/file/6be84cc4cd629f36f862d.jpg" alt="Cyber_Datk_Robot_logo">
 </p>
 
 <p align="center">
