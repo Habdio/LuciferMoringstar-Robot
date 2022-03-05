@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://github.com/Habdio/LuciferMoringstar-Robot"><img src="https://github.com/Habdio/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/README.md/https://telegra.ph/file/6be84cc4cd629f36f862d.jpg" " border="0" height="125" width="200" align="center" /></a>
+<a href="https://github.com/Habdio/LuciferMoringstar-Robot" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
