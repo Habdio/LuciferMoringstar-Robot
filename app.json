@@ -1,7 +1,7 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "Dark_Bot_V1",
     "description": "Super Fast Telegram Auto Filter Bot",
-    "logo": "https://telegra.ph/file/aabbe1b1f267be91206c5.jpg",
+    "logo": "https://telegra.ph/file/6be84cc4cd629f36f862d.jpg",
     "stack": "container",
     "keywords": [
       "best",
@@ -10,8 +10,8 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://github.com/Habdio/LuciferMoringstar-Robot",
+    "repository": "https://github.com/Habdio/LuciferMoringstar-Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
