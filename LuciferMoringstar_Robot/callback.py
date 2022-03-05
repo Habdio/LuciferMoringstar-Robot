@@ -250,7 +250,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 if f_caption is None:
                     f_caption = LuciferMoringstar.FILE_CAPTIONS
                 buttons = [[
-                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/+o0magU0LHq5jZmQ9')
                   ]]                 
                 
                 await query.answer()
@@ -273,8 +273,8 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("ℹ️ Help", callback_data="help"),
                  InlineKeyboardButton("😎 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/FCU_XJmyG_U"),
-                 InlineKeyboardButton("🤖 Update", url="https://t.me/Mo_Tech_Group")
+                 InlineKeyboardButton("🗳 Deploy", url="https://t.me/+o0magU0LHq5jZmQ9"),
+                 InlineKeyboardButton("🤖 Update", url="https://t.me/+yea-7eD0KEs3ODM1")
                  ]]
             else:
                 buttons = [[
