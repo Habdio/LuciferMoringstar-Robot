@@ -32,7 +32,8 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/Habdio/LuciferMoringstar-Robot><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/https://telegra.ph/file/9824a2d2d20b7f1c70b4d.jpg-Deploy-To-Heroku.jpg" alt="CYBER-DARK" border="0" height="125" width="200" align="center" /></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Habdio/Darksfirstbot)
+
   
 
 
